@@ -7,7 +7,6 @@ def bday_messages():
   'Have lots of fun on your special day! :birthday:',
   'Another year of you going around the sun! :sun_with_face:']
   random_message = random.choice(bday)
-  return random_message
 
 
 
